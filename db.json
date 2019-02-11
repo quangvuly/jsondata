@@ -1,40 +1,66 @@
 {
-  "location":
-    [
-      {
-        "id":48,
-        "title":"Helgelandskysten",
-        "longitude":"12.63376",
-        "latitude":"66.02219"
-      },
-      {"id":46,
-       "title":"Tysfjord",
-       "longitude":"16.50279",
-       "latitude":"68.03515"
-      },
-      {
-        "id":44,
-        "title":"Sledehunds-ekspedisjon",
-        "longitude":"7.53744",
-        "latitude":"60.08929"
-      },
-      {
-        "id":43,
-        "title":"Amundsens sydpolferd",
-        "longitude":"11.38411",
-        "latitude":"62.57481"
-      },
-      {
-        "id":39,
-        "title":"Vikingtokt",
-        "longitude":"6.96781",
-        "latitude":"60.96335"
-      },
-      {
-        "id":6,
-        "title":"Tungtvann- sabotasjen",
-        "longitude":"8.49139",
-        "latitude":"59.87111"
-      }
-    ]
-}
+    "location":
+      [
+        {
+            "id":1,
+            "title":"Chùa Bà Thiên Hậu",
+            "address":"4 Nguyễn Du, Phú Cường, Thủ Dầu Một, Bình Dương",
+            "phone":"+84 274 3823 073",
+            "web":"",
+            "longitude":"10.981071",
+            "latitude":"106.654693",
+            "category": "Chua"
+
+        },
+        {
+            "id":2,
+            "title":"Chùa Hội Khánh",
+            "address":"205 Yersin, Phú Cường, Thủ Dầu Một, Bình Dương",
+            "phone":"",
+            "web":"",
+            "longitude":"10.982359",
+            "latitude":"106.659156",
+            "category": "Chùa"
+        },
+        {
+            "id":3,
+            "title":"Nhà thờ Chánh Tòa Phú Cường",
+            "address":"394 Cách Mạng Tháng Tám, Phú Cường, Thủ Dầu Một, Bình Dương",
+            "phone":"+84 274 3822 292",
+            "web":"https://giaophanphucuong.org/",
+            "longitude":"10.982057",
+            "latitude":"106.653944",
+            "category": "Nhà thờ"
+        },
+        {
+            "id":4,
+            "title":"Chợ Thủ Dầu Một - Chợ Gà",
+            "address":"50 Nguyễn Thái Học, Phú Cường, Thủ Dầu Một, Bình Dương",
+            "phone":"+84 394 401 690",
+            "web":"https://binhduong.gov.vn",
+            "longitude":"10.978650",
+            "latitude":"106.652401",
+            "category": "Siêu thị - Chợ"
+        },
+        {
+            "id":5,
+            "title":"Công viên Phú Cường",
+            "address":"530 Cách Mạng Tháng Tám, Phú Cường, Thủ Dầu Một, Bình Dương",
+            "phone":"+84 91 969 88 97",
+            "web":"",
+            "longitude":"10.978257",
+            "latitude":"106.656415",
+            "category": "Vui chơi giải trí"
+        },
+        {
+            "id":6,
+            "title":"Xiên nướng BBQ & Lẩu",
+            "address":"229 Yersin, Phú Cường, Thủ Dầu Một, Bình Dương",
+            "phone":"+84 93 154 41 99",
+            "web":"",
+            "longitude":"10.982022",
+            "latitude":"106.654844",
+            "category": "Ẩm thực"
+        }
+      ]
+  }
