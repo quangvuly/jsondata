@@ -7,8 +7,8 @@
             "address":"4 Nguyễn Du, Phú Cường, Thủ Dầu Một, Bình Dương",
             "phone":"+84 274 3823 073",
             "web":"",
-            "longitude":"10.981071",
-            "latitude":"106.654693",
+            "latitude":"10.981071",
+            "longitude":"106.654693",
             "category": "Chua"
 
         },
@@ -18,8 +18,8 @@
             "address":"205 Yersin, Phú Cường, Thủ Dầu Một, Bình Dương",
             "phone":"",
             "web":"",
-            "longitude":"10.982359",
-            "latitude":"106.659156",
+            "latitude":"10.982359",
+            "longitude":"106.659156",
             "category": "Chùa"
         },
         {
@@ -28,8 +28,8 @@
             "address":"394 Cách Mạng Tháng Tám, Phú Cường, Thủ Dầu Một, Bình Dương",
             "phone":"+84 274 3822 292",
             "web":"https://giaophanphucuong.org/",
-            "longitude":"10.982057",
-            "latitude":"106.653944",
+            "latitude":"10.982057",
+            "longitude":"106.653944",
             "category": "Nhà thờ"
         },
         {
@@ -38,8 +38,8 @@
             "address":"50 Nguyễn Thái Học, Phú Cường, Thủ Dầu Một, Bình Dương",
             "phone":"+84 394 401 690",
             "web":"https://binhduong.gov.vn",
-            "longitude":"10.978650",
-            "latitude":"106.652401",
+            "latitude":"10.978650",
+            "longitude":"106.652401",
             "category": "Siêu thị - Chợ"
         },
         {
@@ -48,8 +48,8 @@
             "address":"530 Cách Mạng Tháng Tám, Phú Cường, Thủ Dầu Một, Bình Dương",
             "phone":"+84 91 969 88 97",
             "web":"",
-            "longitude":"10.978257",
-            "latitude":"106.656415",
+            "latitude":"10.978257",
+            "longitude":"106.656415",
             "category": "Vui chơi giải trí"
         },
         {
@@ -58,8 +58,8 @@
             "address":"229 Yersin, Phú Cường, Thủ Dầu Một, Bình Dương",
             "phone":"+84 93 154 41 99",
             "web":"",
-            "longitude":"10.982022",
-            "latitude":"106.654844",
+            "latitude":"10.982022",
+            "longitude":"106.654844",
             "category": "Ẩm thực"
         }
       ]
